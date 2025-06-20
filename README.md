@@ -1,4 +1,4 @@
-# 54 ReactJS Interview Questions and Answers
+# 50+ ReactJS Interview Questions and Answers
 
 ### 1. What is React?
 React is a JavaScript library for building user interfaces. It allows you to create reusable components that manage their own state and efficiently update the UI.
